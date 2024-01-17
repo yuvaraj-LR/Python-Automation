@@ -1,7 +1,5 @@
-# Python-Automation
+# Web Scrapping and Automation Using Python
 Built a automation tool for web scrapping using python.
-
-Web Scrapping and Automation Using Python
 
 Overview
 
