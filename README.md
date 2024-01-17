@@ -4,14 +4,17 @@ Built a automation tool for web scrapping using python.
 Web Scrapping and Automation Using Python
 
 Overview
+
 This Python script is designed to perform web scraping and data extraction from an Excel file and an external API. It retrieves student details from an Excel sheet, makes API calls for each student, and extracts specific information from the API response.
 
 Requirements
+
     1. Python (version 3.x recommended)
     2. Required Python packages: requests, beautifulsoup4, pandas
         2.1. Install these packages using: pip install requests beautifulsoup4 pandas
 
 Instructions
+
     1. Clone the Repository
         Clone the repository to your local machine:
           git clone https://github.com/your-username/your-repository.git
